@@ -1,0 +1,2 @@
+c:\users\amir\documents\visual studio 2015\Projects\Bihil\Bihil\bin\Debug\Bihil.exe.config
+c:\users\amir\documents\visual studio 2015\Projects\Bihil\Bihil\obj\Debug\Bihil.csprojResolveAssemblyReference.cache
